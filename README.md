@@ -57,5 +57,4 @@ The README provides a paragraph describing the understanding of WordPiece tokeni
 - Word clouds visually represent common words in Michael Corleone's dialogue.
 - Task 3 includes a comparison of WordPiece and word tokenization using HuggingFace's "bert-base-cased" model.
 
-Feel free to make any adjustments or additions based on your specific requirements!
 ```
