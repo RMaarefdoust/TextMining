@@ -1,5 +1,3 @@
-
-```markdown
 # Exploring Michael Corleone's Dialogue: Visualizing Common Words and Understanding WordPiece Tokenization
 
 ## Tasks
